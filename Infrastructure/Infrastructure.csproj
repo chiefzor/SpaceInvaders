@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{541DE23E-5987-46F0-A314-15805872E4FC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Infrastructure</RootNamespace>
+    <AssemblyName>Infrastructure</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework, Version=3.5.1.1679, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Managers\CollisionsManager.cs" />
+    <Compile Include="Managers\GameSettingsManager.cs" />
+    <Compile Include="Managers\InputManager.cs" />
+    <Compile Include="Managers\PlayersManager.cs" />
+    <Compile Include="Managers\SoundManager.cs" />
+    <Compile Include="Menu\EnterMenuItem.cs" />
+    <Compile Include="Menu\Menu.cs" />
+    <Compile Include="Menu\MenuItem.cs" />
+    <Compile Include="Menu\ToggleEventArgs.cs" />
+    <Compile Include="Menu\ToggleMenuItem.cs" />
+    <Compile Include="ObjectModel\Animators\CompositeAnimator.cs" />
+    <Compile Include="ObjectModel\Animators\SpriteAnimator.cs" />
+    <Compile Include="ObjectModel\BaseGame.cs" />
+    <Compile Include="ObjectModel\Component2D.cs" />
+    <Compile Include="ObjectModel\CompositeDrawableComponent.cs" />
+    <Compile Include="ObjectModel\ConcreteAnimators\PulseAnimator.cs" />
+    <Compile Include="ObjectModel\DrawableComparer.cs" />
+    <Compile Include="ObjectModel\GameComponentEventArgs.cs" />
+    <Compile Include="ObjectModel\GameService.cs" />
+    <Compile Include="ObjectModel\LoadableDrawableComponent.cs" />
+    <Compile Include="ObjectModel\RegisteredComponent.cs" />
+    <Compile Include="ObjectModel\ScoreText.cs" />
+    <Compile Include="Managers\ScreensManager.cs" />
+    <Compile Include="ObjectModel\Screens\GameScreen.cs" />
+    <Compile Include="ObjectModel\Soul.cs" />
+    <Compile Include="ObjectModel\Player.cs" />
+    <Compile Include="ObjectModel\Sprite.cs" />
+    <Compile Include="ObjectModel\GameText2D.cs" />
+    <Compile Include="ObjectModel\StateChangedEventArgs.cs" />
+    <Compile Include="ObjectModel\UpdateableComparer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceInterfaces\ICollisionsManager.cs" />
+    <Compile Include="ServiceInterfaces\IGameSettingsManager.cs" />
+    <Compile Include="ServiceInterfaces\IInputManager.cs" />
+    <Compile Include="ServiceInterfaces\IPlayersManager.cs" />
+    <Compile Include="ServiceInterfaces\IScreensManager.cs" />
+    <Compile Include="ServiceInterfaces\ISoundManager.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

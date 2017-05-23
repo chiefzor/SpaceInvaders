@@ -1,0 +1,7 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 205641947 -  Ariel Berezkin
+Second Student Details: 301911103 - Idan Asher
+Delivery Date.........: 19 - September - 2016
+Delivered In Delay....: Yes
+=======================End Exercise Checking Report=========================

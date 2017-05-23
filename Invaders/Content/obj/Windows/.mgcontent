@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/BG_Space01_1024x768.jpg</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/Bullet.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/Enemy0101_32x32.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/Enemy0201_32x32.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/Enemy0301_32x32.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/MotherShip_32x120.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/Ship01_32x32.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/Enemies.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/Barrier_44x32.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/Ship02_32x32.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/GameOverMessage.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Screens/blank.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Screens/gradient.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/MainMenu.PNG</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Fonts/24Calibri.spritefont</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Fonts/40BoldSizeCalibri.spritefont</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Fonts/CalibriScore.spritefont</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sounds/BarrierHit.wav</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sounds/EnemyGunShot.wav</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sounds/EnemyKill.wav</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sounds/GameOver.wav</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sounds/LevelWin.wav</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sounds/LifeDie.wav</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sounds/MenuMove.wav</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sounds/MotherShipKill.wav</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sounds/SSGunShot.wav</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sounds/BGMusic.wav</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Fonts/Calibri.spritefont</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Sprites/GameOver.png</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Fonts/Showcard Gothic.spritefont</File>
+    <File>C:/Users/Idan/Source/Repos/SpaceInvaders/Invaders/Content/Fonts/Jokerman.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

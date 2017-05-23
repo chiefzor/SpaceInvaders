@@ -1,0 +1,120 @@
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\BG_Space01_1024x768.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\Bullet.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0101_32x32.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0201_32x32.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0301_32x32.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\MotherShip_32x120.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\Ship01_32x32.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Invaders.exe
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Invaders.pdb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Infrastructure.dll
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Infrastructure.pdb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\obj\x86\Debug\Invaders.csprojResolveAssemblyReference.cache
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\obj\x86\Debug\Invaders.exe
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\obj\x86\Debug\Invaders.pdb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\Enemies.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\Barrier_44x32.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\Ship02_32x32.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Screens\blank.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Screens\gradient.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\GameOverMessage.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\WelcomeMessage.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Fonts\Calibri.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\MainMenu.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\WelcomeDecision.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Fonts\24Calibri.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Fonts\40BoldSizeCalibri.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Fonts\CalibriScore.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sounds\BarrierHit.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sounds\BGMusic.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sounds\EnemyGunShot.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sounds\EnemyKill.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sounds\GameOver.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sounds\LevelWin.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sounds\LifeDie.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sounds\MenuMove.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sounds\MotherShipKill.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sounds\SSGunShot.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Fonts\Jokerman.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Fonts\Showcard Gothic.xnb
+C:\C16 Ex01 ArielBerezkin 205641947 IdanAsher 301911103\Invaders\bin\Windows\x86\Debug\Content\Sprites\GameOver.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\obj\x86\Debug\Invaders.exe
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\obj\x86\Debug\Invaders.pdb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\WelcomeDecision.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\WelcomeMessage.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Fonts\24Calibri.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Fonts\40BoldSizeCalibri.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Fonts\Calibri.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Fonts\CalibriScore.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Fonts\Jokerman.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Fonts\Showcard Gothic.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Screens\blank.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Screens\gradient.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sounds\BarrierHit.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sounds\BGMusic.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sounds\EnemyGunShot.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sounds\EnemyKill.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sounds\GameOver.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sounds\LevelWin.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sounds\LifeDie.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sounds\MenuMove.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sounds\MotherShipKill.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sounds\SSGunShot.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\Barrier_44x32.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\BG_Space01_1024x768.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\Bullet.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\Enemies.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0101_32x32.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0201_32x32.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0301_32x32.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\GameOver.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\GameOverMessage.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\MainMenu.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\MotherShip_32x120.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\Ship01_32x32.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Content\Sprites\Ship02_32x32.xnb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Invaders.exe
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Invaders.pdb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Infrastructure.dll
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\Infrastructure.pdb
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Idan\Source\Repos\SpaceInvaders\Invaders\obj\x86\Debug\Invaders.csprojResolveAssemblyReference.cache
